@@ -1,9 +1,6 @@
 # hi welcome to my github
 this is where i dump all my projects and notes 
 
-i am currently working on nothing
-
-
 <!--
 **p0nyo/p0nyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
