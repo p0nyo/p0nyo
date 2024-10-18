@@ -5,4 +5,4 @@ currently working on:
 - the odin project
 - learning the mern stack
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=p0nyo&show_icons=true&locale=en&layout=compact" alt="p0nyo" /></p>
+
