@@ -1,6 +1,3 @@
-# hi welcome to my github
+# hi welcome to my github this is where i dump all my projects
 
-this is where i dump all my projects
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=p0nyo&theme=graywhite&hide_border=true" alt="p0nyo" />
-</p>
+![sunset-mt-victoria -compressed](https://github.com/user-attachments/assets/972a016e-f7db-4f07-901a-9fdc550c8ea6)
