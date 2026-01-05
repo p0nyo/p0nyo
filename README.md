@@ -3,4 +3,4 @@
 ![sunset-mt-victoria -compressed](https://github.com/user-attachments/assets/972a016e-f7db-4f07-901a-9fdc550c8ea6)
 _mt victoria, devonport 2025_
 
-_photo credits @\_lovevisuals\__
+_photo credits @\_love.visuals\__
