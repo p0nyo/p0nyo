@@ -2,6 +2,17 @@
 _mt victoria, devonport 2025_
 _photo credits @\_love.visuals\__
 
-# hi welcome to my github this is where i dump all my projects
+## hi im treyson welcome to my github
+
+i store mainly my projects and notes (privately) here
+
+few things about me:
+- i had a cat that died 8 years ago
+- i like snowboarding
+
+
+
+
+
 
 
