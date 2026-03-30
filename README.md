@@ -1,7 +1,5 @@
 ![sunset-mt-victoria -compressed](https://i.ibb.co/CpRLYsnd/github-banner.png)
-_mt victoria, devonport 2025_
-
-_photo credits @\_love.visuals\__
+_mt victoria, devonport 2025_, _photo credits @\_love.visuals\__
 
 ## hi im treyson welcome to my github
 
