@@ -9,7 +9,7 @@ few things about me:
 - had a cat that died 8 years ago
 - likes to snowboard
 - used to work at mcdonalds 
-- 170kg deadlift pr
+- 180kg deadlift pr
 
 
 
