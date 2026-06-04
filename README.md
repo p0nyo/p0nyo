@@ -11,6 +11,8 @@ few things about me:
 - used to work at mcdonalds 
 - 180kg deadlift pr
 
+play tetris on my website! [treysontsen.com](https://www.treysontsen.com)
+
 
 
 
